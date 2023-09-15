@@ -8,12 +8,8 @@
 #table-1 td,#table-2 td,#table-3 td{
 	border:1px solid black;
 }
-#t12,#t22,#t32{
-	text-align:center;
-}
-#t13,#t23,#t33{
-	text-align:right;
-}
+
+
 .middle td{
 	height:15px;
 }
@@ -22,5 +18,8 @@
 }
 #t3-3{
 	background-color:blue;
+}
+td{
+	padding:1px;
 }
 
