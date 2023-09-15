@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
-#table-1,#table-2{
+#table-1,#table-2,#table-3{
 	border:1px solid black;
 	border-collapse:collapse;
 	padding:1px;
 	width:700px;
 }
-#table-1 td,#table-2 td{
+#table-1 td,#table-2 td,#table-3 td{
 	border:1px solid black;
 }
 #t12,#t22,#t32{
@@ -14,7 +14,13 @@
 #t13,#t23,#t33{
 	text-align:right;
 }
-#t21{
-	border:1px solid black;
+.middle td{
+	height:15px;
+}
+#t3-1{
+	background-color:green;
+}
+#t3-3{
+	background-color:blue;
 }
 
